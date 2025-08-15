@@ -8,5 +8,3 @@ This project is a simple application for organizing your books by genre.
 5. If you don't choose exit option, the project will run repeatedly. 
 ## Installation
 You need python program and, then you can copy the code and run. 
-## Stage
-This project is still being developed.
